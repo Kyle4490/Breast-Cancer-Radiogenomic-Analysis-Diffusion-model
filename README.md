@@ -1,4 +1,4 @@
-##**Conditional Probabilistic Diffusion Model Driven Synthetic Radiogenomics for Predicting Breast Cancer Outcomes**
+#Conditional Probabilistic Diffusion Model Driven Synthetic Radiogenomics for Predicting Breast Cancer Outcomes
 
 **L. Chen**, Z. Huang, Y. Sun, M. Domaratzki, Q. Liu, P. Hu.
 
