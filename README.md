@@ -4,7 +4,7 @@
 
 **L. Chen**, Z. Huang, Y. Sun, M. Domaratzki, Q. Liu, P. Hu.
 
-**ABSTRACT**
+**ABSTRACT (2023 Version)**
 
 **Introduction:** The integration of medical images (e.g. magnetic resonance imaging (MRI)) and genomics offers a novel perspective on the study of breast cancer (BC) heterogeneity. However, the absence of paired medical images and genomics data could pose a significant challenge. We hypothesize a well-trained conditional probabilistic diffusion model (CPDM) can address this unpaired data problem by generating BC MRIs conditionally on genomic information. These generated MRIs can be used to predict BC clinical attributes such as disease subtypes and prognosis.
 
